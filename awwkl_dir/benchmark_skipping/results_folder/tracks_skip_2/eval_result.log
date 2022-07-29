@@ -1,0 +1,10 @@
+2022-07-04 16:01:01.282 | INFO     | __main__:eval_result_folder:17 - 
+Found 3 groundtruths and 3 test files.
+2022-07-04 16:01:34.511 | INFO     | __main__:eval_result_folder:17 - 
+Found 3 groundtruths and 3 test files.
+2022-07-04 16:01:45.009 | INFO     | __main__:eval_result_folder:29 - 
+          IDF1   IDP   IDR  Rcll  Prcn  GT MT  PT  ML    FP    FN IDs   FM  MOTA  MOTP IDt IDa IDm num_objects
+MOT17-04 52.2% 86.0% 37.4% 39.4% 90.4% 141 50  27  64  4531 65502  20  118 35.1% 0.239  16   8   4      108005
+MOT17-10 29.0% 36.1% 24.2% 46.7% 69.9%  73 14  31  28  3519  9294 349  376 24.6% 0.241 259  85  18       17450
+MOT17-13 23.5% 45.2% 15.8% 22.4% 64.1% 188  9  52 127  2540 15671 282  379  8.5% 0.281 236  73  31       20202
+OVERALL  45.3% 72.8% 32.9% 37.9% 83.9% 402 73 110 219 10590 90467 651  873 30.2% 0.243 511 166  53      145657

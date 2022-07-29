@@ -1,0 +1,7 @@
+# Do not commit mp4 files and zip files
+**/*.mp4
+**/*.zip
+
+# Commit result logs and text outputs
+!**/*.log
+!**/*.txt
